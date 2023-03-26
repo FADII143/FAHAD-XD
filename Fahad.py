@@ -14,6 +14,6 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from pubg import fahad
+    from Fahad1 import fahad
 
     fahad()
