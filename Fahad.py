@@ -14,6 +14,6 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from Fahad import Hxw_Main
+    from Fahad import FAHAD
 
-    Hxw_Main()
+    FAHAD()
