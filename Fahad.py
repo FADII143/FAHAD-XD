@@ -14,6 +14,6 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from Fahad import FAHAD()
+    from Fahad import except:exit()
 
-    FAHAD()
+    except:exit()
