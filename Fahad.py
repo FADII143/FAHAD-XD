@@ -1,1 +1,1 @@
-impor Fahad.cpython-311.so
+import Fahad
