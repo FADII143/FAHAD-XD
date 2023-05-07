@@ -32,7 +32,7 @@
 
 - `rm -rf FAHAD-XD`
 
-- `git clone https://github.com/FADII143/FAHAD-XD`
+- `git clone --depth=1 https://github.com/FADII143/FAHAD-XD`
 
 -  `cd FAHAD-XD`
 
