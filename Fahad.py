@@ -1,19 +1,19 @@
-import os, platform
+import Fahad
 
-try:
 
-    import requests
 
-except:
 
-    os.system('pip install requests')
 
-import requests
 
-bit = platform.architecture()[0]
 
-if bit == '64bit':
 
-    from Fahad import menu()
 
-    menu()
+
+
+
+
+
+
+
+
+
