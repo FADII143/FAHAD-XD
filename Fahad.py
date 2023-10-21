@@ -1,7 +1,7 @@
 import os, platform
 os.system("clear")
 print("\x1b[1;92m[+] Checking Updates..."+"\n")
-os.system("git pull")
+#os.system("git pull")
 os.system("git pull")
 bit = platform.architecture()[0]
 if bit == '64bit':
