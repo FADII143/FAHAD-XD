@@ -1,1 +1,1 @@
-print('\nTool has been Closed\n Try again sometime later')
+print('\nTool has been Closed\nTry again sometime later')
