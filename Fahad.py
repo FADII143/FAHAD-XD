@@ -1,1 +1,1 @@
-import Fahad
+print('Tool has been Closed')
